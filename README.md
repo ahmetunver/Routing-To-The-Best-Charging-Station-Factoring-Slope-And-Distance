@@ -15,9 +15,9 @@ This project aims to determine the locations of charging stations and calculate 
 │   ├── tif.py
 │   ├── tif2.py
 ├── outputs/               # Outputs (visuals and reports)
-│   ├── a_bskts_TEST_FINAL.png
-│   ├── besiktasBOUNDARYcharging.png
-│   ├── test7_graph.png
+│   ├── a_bskts_DENEME_SON.png
+│   ├── besiktasSINIRIsarj.png
+│   ├── deneme7_grafik.png
 ├── README.md              # Project description file
 ├── requirements.txt       # Required Python libraries
 └── .gitignore             # Files to be ignored by Git
