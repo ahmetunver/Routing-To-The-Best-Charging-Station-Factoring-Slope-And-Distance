@@ -1,0 +1,11 @@
+
+numpy
+rasterio
+matplotlib
+shapely
+tensorflow
+osmnx
+geopandas
+networkx
+scikit-learn
+requests

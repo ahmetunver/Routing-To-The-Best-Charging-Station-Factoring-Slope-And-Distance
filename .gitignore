@@ -1,0 +1,5 @@
+
+*.tif
+*.hgt
+__pycache__/
+*.log
