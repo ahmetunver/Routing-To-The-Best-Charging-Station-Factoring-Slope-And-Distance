@@ -11,7 +11,7 @@ This project aims to determine the locations of charging stations and calculate 
 │   ├── merged_srtm_data.tif
 ├── scripts/               # Python script files
 │   ├── deneme7.py
-│   ├── charging_station_determination.py
+│   ├── sarj-istasyonu_belirleme.py
 │   ├── tif.py
 │   ├── tif2.py
 ├── outputs/               # Outputs (visuals and reports)
