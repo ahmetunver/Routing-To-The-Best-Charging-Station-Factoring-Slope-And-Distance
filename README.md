@@ -48,6 +48,7 @@ pip install -r requirements.txt
 - **Map Visualizations**: Visualizations of the Beşiktaş region and charging stations.
 - **Model Performance**: Accuracy and loss graphs.
 
+
 Creators' GitHub Accounts
 [ahmetunver](https://github.com/ahmetunver)
 and
